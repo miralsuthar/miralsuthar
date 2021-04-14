@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Machine Learning and Deep Neural Networks.
 - 💚 Love to make games and UX/UI Designs.
 
- ![ Alt text](programmer.gif)
+ ![ Alt text](programmer .gif)
 
