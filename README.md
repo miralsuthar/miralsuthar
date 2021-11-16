@@ -1,6 +1,6 @@
 ### Hey! I'm Miral Suthar 👋
 
-- 💻 I'm a Frontend Web Developer.
+- 💻 I'm a Frontend Web Developer and UI designer.
 - 🌱 I’m currently working on [Meshare](https://meshare.me/) with [Nazeeh](https://github.com/Nazeeh21)
 - 💚 Love to make games and UX/UI Designs.
 - 📖 My article [Animation with Tailwindcss](https://miralsuthar.hashnode.dev/svg-animation-using-tailwindcss)
