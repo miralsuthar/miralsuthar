@@ -1,7 +1,7 @@
 ### Hey! I'm Miral Suthar 👋
 
 - 💻 I'm a Frontend Web Developer and UI designer.
-- 💚 Love to Frontend stuff and UX/UI Designs.
+- 💚 Love to building Frontend stuff and UX/UI Designs.
 - 📽️ Project [tailwindcss-glassmorphism](https://tailwindcss-glassmorphism.vercel.app/), [eth-info](https://eth-info.vercel.app/)
 - 📖 My article [Animation with Tailwindcss](https://miralsuthar.hashnode.dev/svg-animation-using-tailwindcss)
 - 👷‍♂️ Contributed to [OpenSauced](https://github.com/open-sauced/open-sauced), [dailtdotdev](https://github.com/dailydotdev/apps) and [developerdao](https://github.com/Developer-DAO/developer-dao)
