@@ -1,9 +1,8 @@
 ### Hey! I'm Miral Suthar 👋
 
 - 💻 I'm a Frontend Web Developer and UI designer.
-- 🌱 I’m currently working on [Meshare](https://meshare.me/) with [Nazeeh](https://github.com/Nazeeh21)
-- 💚 Love to make games and UX/UI Designs.
-- 📽️ Project [tailwindcss-glassmorphism](https://tailwindcss-glassmorphism.vercel.app/)
+- 💚 Love to Frontend stuff and UX/UI Designs.
+- 📽️ Project [tailwindcss-glassmorphism](https://tailwindcss-glassmorphism.vercel.app/), [eth-info](https://eth-info.vercel.app/)
 - 📖 My article [Animation with Tailwindcss](https://miralsuthar.hashnode.dev/svg-animation-using-tailwindcss)
 - 👷‍♂️ Contributed to [OpenSauced](https://github.com/open-sauced/open-sauced), [dailtdotdev](https://github.com/dailydotdev/apps) and [developerdao](https://github.com/Developer-DAO/developer-dao)
 - 🧰 Technology I use: React | Nextjs | Mongo | Threejs | GraphQL | Postgres | Javascript | Tailwindcss
